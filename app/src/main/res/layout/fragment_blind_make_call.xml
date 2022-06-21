@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BlindMakeCallFragment"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/toolbar" />
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/textCall"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/dark_gray"
+        android:text="Dzwonię"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="60sp" />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="50dp" />
+
+    <ImageButton
+        android:id="@+id/endCallBlind"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:adjustViewBounds="true"
+        android:layout_gravity="center"
+        android:src="@drawable/end_call_button"
+        android:scaleType="fitCenter"
+        android:background="@color/white"
+        />
+
+    <!--
+    <ImageView
+        android:id="@+id/endCallBlind"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:adjustViewBounds="true"
+        android:layout_gravity="center"
+        android:src="@drawable/end_call"
+        />
+
+        -->
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="50dp" />
+
+
+</LinearLayout>

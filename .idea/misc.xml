@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/INFA/testing/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1865" />
+        <entry key="..\:/INFA/testing/app/src/main/res/drawable/circle.xml" value="0.1865" />
+        <entry key="..\:/INFA/testing/app/src/main/res/drawable/end_call.xml" value="0.1865" />
+        <entry key="..\:/INFA/testing/app/src/main/res/drawable/end_call_button.xml" value="0.1865" />
+        <entry key="..\:/INFA/testing/app/src/main/res/drawable/ic_baseline_call_end_12.xml" value="0.1865" />
+        <entry key="..\:/INFA/testing/app/src/main/res/drawable/ic_baseline_call_end_24.xml" value="0.1865" />
+        <entry key="..\:/INFA/testing/app/src/main/res/drawable/ic_baseline_call_end_40.xml" value="0.1865" />
+        <entry key="..\:/INFA/testing/app/src/main/res/drawable/ic_end_call_background.xml" value="0.1865" />
+        <entry key="..\:/INFA/testing/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/INFA/testing/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/INFA/testing/app/src/main/res/layout/fragment_blind_call_accepted.xml" value="0.14114583333333333" />
+        <entry key="..\:/INFA/testing/app/src/main/res/layout/fragment_blind_help.xml" value="0.25416666666666665" />
+        <entry key="..\:/INFA/testing/app/src/main/res/layout/fragment_blind_help_call.xml" value="0.178125" />
+        <entry key="..\:/INFA/testing/app/src/main/res/layout/fragment_blind_make_call.xml" value="0.178125" />
+        <entry key="..\:/INFA/testing/app/src/main/res/layout/fragment_stream_video_audio.xml" value="0.178125" />
+        <entry key="..\:/INFA/testing/app/src/main/res/layout/fragment_toolbar.xml" value="0.178125" />
+        <entry key="..\:/INFA/testing/app/src/main/res/layout/toolbar.xml" value="0.2" />
+        <entry key="..\:/INFA/testing/app/src/main/res/layout/upper_toolbar_call.xml" value="0.178125" />
+        <entry key="..\:/INFA/testing/app/src/main/res/menu/options_menu.xml" value="0.4" />
+        <entry key="..\:/INFA/testing/app/src/main/res/menu/toolbar.xml" value="0.178125" />
+        <entry key="..\:/INFA/testing/app/src/main/res/mipmap-anydpi-v26/ic_end_call.xml" value="0.1865" />
+        <entry key="..\:/INFA/testing/app/src/main/res/mipmap-anydpi-v26/ic_end_call_round.xml" value="0.1865" />
+        <entry key="..\:/INFA/testing/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1865" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
